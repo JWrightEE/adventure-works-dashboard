@@ -1,6 +1,6 @@
 # AdventureWorks Dashboard
 
-![Dashboard Gif](gifs/AdventureWorksGif.mp4)
+![Dashboard Gif](gifs/AdventureWorksDemo.mp4)
 
 ## Table of Contents
 
